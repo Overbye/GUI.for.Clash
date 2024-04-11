@@ -15,6 +15,8 @@ export enum WindowStartState {
   // Fullscreen = 3
 }
 
+export const FontFamily = 'PingFangSC-Regular, sans-serif, "Microsoft Yahei", Arial, "Twemoji Mozilla"'
+
 export enum Theme {
   Auto = 'auto',
   Light = 'light',
